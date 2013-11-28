@@ -1,0 +1,1287 @@
+2013/11/28 03:46:30 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:46:30 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:46:30 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\n
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:46:30 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\n
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:46:30 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:12 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:12 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:12 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:12 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:12 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:18 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:18 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:18 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:18 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:49:18 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:18 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:18 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:18 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:18 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:18 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:24 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:24 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:24 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:24 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:24 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:50 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:50 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:50 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:50 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:50:50 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:51:13 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:51:13 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:51:13 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:51:13 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:51:13 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:35 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:35 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:35 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:35 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:35 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:42 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:42 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:42 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [author_id] => Array
+        (
+            [0] => tbl_author
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => author_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:42 [warning] [application] Array
+(
+    [book_id] => Array
+        (
+            [0] => tbl_book
+            [1] => id
+        )
+
+    [reader_id] => Array
+        (
+            [0] => tbl_reader
+            [1] => id
+        )
+
+)
+\n\nArray
+(
+    [0] => book_id
+    [1] => reader_id
+)
+
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:52:42 [warning] [application] Array
+(
+)
+\n\nid
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 03:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "schedule/index".' in /home/magician/job/imot/test_task2/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('schedule/index')
+#1 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/testtask2/library/index.php?r=schedule/index
+---
+2013/11/28 03:58:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "schedule/index".' in /home/magician/job/imot/test_task2/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('schedule/index')
+#1 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/testtask2/library/index.php?r=schedule/index
+---
+2013/11/28 03:58:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "schedule/index".' in /home/magician/job/imot/test_task2/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('schedule/index')
+#1 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/testtask2/library/index.php?r=schedule/index
+---
+2013/11/28 04:05:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php:157
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(55): BookController->loadModel('1')
+#1 [internal function]: BookController->actionView('1')
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/view')
+#10 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=1
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/create
+---
+2013/11/28 04:05:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php:157
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(55): BookController->loadModel('2')
+#1 [internal function]: BookController->actionView('2')
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('view')
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/view')
+#10 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=2
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/create
+---
+2013/11/28 04:12:08 [warning] [application] 0000-00-00 00:00:00  string
+in /home/magician/job/imot/test_task2/library/protected/views/book/_view.php (21)
+in /home/magician/job/imot/test_task2/library/protected/views/book/index.php (20)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (128)
+2013/11/28 04:17:19 [warning] [application] 1  string
+in /home/magician/job/imot/test_task2/library/protected/views/book/_view.php (21)
+in /home/magician/job/imot/test_task2/library/protected/views/book/index.php (20)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (128)
+2013/11/28 04:42:15 [error] [exception.CException] exception 'CException' with message 'ReportController cannot find the requested view "authorsReadBy3Readers".' in /home/magician/job/imot/test_task2/framework/web/CController.php:878
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(782): CController->renderPartial('authorsReadBy3R...', NULL, true)
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(7): CController->render('authorsReadBy3R...')
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionAuthorsReadBy3Readers()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('authorsReadBy3R...')
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('report/authorsR...')
+#8 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/testtask2/library/index.php?r=report/authorsReadBy3Readers
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=report/index
+---
+2013/11/28 04:58:41 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*)>3' at line 1. The SQL statement executed was: select b.id, b.name from tbl_book b inner join tbl_book_author_xref ba_xref on ba_xref.book_id = b.id inner join tbl_author a on a.id = ba_xref.author_id group by b.id having count(a.*)>3 .
+in /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php (10)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 04:58:41 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '*)>3' at line 1. The SQL statement executed was: select b.id, b.name from tbl_book b inner join tbl_book_author_xref ba_xref on ba_xref.book_id = b.id inner join tbl_author a on a.id = ba_xref.author_id group by b.id having count(a.*)>3 ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(10): CDbCommand->queryAll(true)
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionAuthorsReadBy3Readers()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('authorsReadBy3R...')
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('report/authorsR...')
+#8 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/testtask2/library/index.php?r=report/authorsReadBy3Readers
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=report/index
+---
+2013/11/28 05:11:57 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_book order by rand() limit 5' at line 1. The SQL statement executed was: select id, name form tbl_book order by rand() limit 5.
+in /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php (36)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 05:11:57 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'tbl_book order by rand() limit 5' at line 1. The SQL statement executed was: select id, name form tbl_book order by rand() limit 5' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(36): CDbCommand->queryAll(true)
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionRandomBooks()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('randomBooks')
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('report/randomBo...')
+#8 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/testtask2/library/index.php?r=report/randomBooks
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=report/index
+---
+2013/11/28 05:14:56 [error] [php] Trying to get property of non-object (/home/magician/job/imot/test_task2/library/protected/views/report/reportView.php:19)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(869): ReportController->renderFile()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(782): ReportController->renderPartial()
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(41): ReportController->render()
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionRandomBooks()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(286): ReportController->runAction()
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(265): ReportController->runActionWithFilters()
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): ReportController->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=report/randomBooks
+in /home/magician/job/imot/test_task2/library/protected/views/report/reportView.php (19)
+in /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php (41)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 05:15:43 [error] [php] Use of undefined constant name - assumed 'name' (/home/magician/job/imot/test_task2/library/protected/views/report/reportView.php:19)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(869): ReportController->renderFile()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(782): ReportController->renderPartial()
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(41): ReportController->render()
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionRandomBooks()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(286): ReportController->runAction()
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(265): ReportController->runActionWithFilters()
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): ReportController->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=report/randomBooks
+in /home/magician/job/imot/test_task2/library/protected/views/report/reportView.php (19)
+in /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php (41)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 17:02:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "search".' in /home/magician/job/imot/test_task2/framework/web/CController.php:483
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(270): CController->missingAction('search')
+#1 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('search')
+#2 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/search')
+#3 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/search&term=Book
+---
+2013/11/28 19:22:38 [error] [php] Undefined index: relationsAuthors (/home/magician/job/imot/test_task2/library/protected/controllers/BookController.php:78)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#3 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#4 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/create
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (78)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 19:24:02 [error] [php] Use of undefined constant db - assumed 'db' (/home/magician/job/imot/test_task2/library/protected/components/DBUtil.php:11)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#1 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#4 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#5 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#6 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#7 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/create
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (11)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (78)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 19:24:25 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'book_id' specified twice. The SQL statement executed was: insert into tbl_book_author_xref (book_id, book_id) values (:id1, :id2).
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (20)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (78)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 19:24:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'book_id' specified twice. The SQL statement executed was: insert into tbl_book_author_xref (book_id, book_id) values (:id1, :id2)' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(20): CDbCommand->execute()
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(78): DBUtil::saveRelations('book', 'author', Array, Array)
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): BookController->actionCreate()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('create')
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/create')
+#9 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/create
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/create
+---
+2013/11/28 22:27:26 [error] [php] Undefined variable: authors (/home/magician/job/imot/test_task2/library/protected/views/book/_form.php:46)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#1 /home/magician/job/imot/test_task2/library/protected/views/book/update.php(21): BookController->renderPartial()
+#2 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(126): require()
+#3 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(95): BookController->renderInternal()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(782): BookController->renderPartial()
+#6 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(117): BookController->render()
+#7 unknown(0): BookController->actionUpdate()
+#8 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#9 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#10 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#11 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#12 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#13 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#14 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#15 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=5
+in /home/magician/job/imot/test_task2/library/protected/views/book/_form.php (46)
+in /home/magician/job/imot/test_task2/library/protected/views/book/update.php (21)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (117)
+2013/11/28 22:28:24 [error] [php] Undefined variable: authors (/home/magician/job/imot/test_task2/library/protected/views/book/_form.php:46)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#1 /home/magician/job/imot/test_task2/library/protected/views/book/create.php(18): BookController->renderPartial()
+#2 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(126): require()
+#3 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(95): BookController->renderInternal()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(782): BookController->renderPartial()
+#6 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(87): BookController->render()
+#7 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): BookController->actionCreate()
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#9 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#10 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#11 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#12 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#13 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/create
+in /home/magician/job/imot/test_task2/library/protected/views/book/_form.php (46)
+in /home/magician/job/imot/test_task2/library/protected/views/book/create.php (18)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (87)
+2013/11/28 22:52:17 [error] [php] Undefined variable: model (/home/magician/job/imot/test_task2/library/protected/controllers/BookController.php:53)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#2 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#5 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=12
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (53)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 22:52:46 [error] [php] Array to string conversion (/home/magician/job/imot/test_task2/library/protected/components/DBUtil.php:40)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(95): BookController->renderInternal()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(782): BookController->renderPartial()
+#3 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(55): BookController->render()
+#4 unknown(0): BookController->actionView()
+#5 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#6 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#9 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#11 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#12 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#13 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#14 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=12
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (40)
+in /home/magician/job/imot/test_task2/library/protected/views/book/view.php (37)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (55)
+2013/11/28 22:53:19 [error] [php] Array to string conversion (/home/magician/job/imot/test_task2/library/protected/components/DBUtil.php:40)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(95): BookController->renderInternal()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(782): BookController->renderPartial()
+#3 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(55): BookController->render()
+#4 unknown(0): BookController->actionView()
+#5 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#6 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#9 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#11 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#12 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#13 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#14 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=12
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (40)
+in /home/magician/job/imot/test_task2/library/protected/views/book/view.php (37)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (55)
+2013/11/28 22:53:56 [error] [php] Use of undefined constant i - assumed 'i' (/home/magician/job/imot/test_task2/library/protected/components/DBUtil.php:41)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(95): BookController->renderInternal()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(782): BookController->renderPartial()
+#3 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(55): BookController->render()
+#4 unknown(0): BookController->actionView()
+#5 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#6 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#9 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#11 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#12 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#13 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#14 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=12
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (41)
+in /home/magician/job/imot/test_task2/library/protected/views/book/view.php (37)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (55)
+2013/11/28 22:54:41 [warning] [application] 1
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (40)
+in /home/magician/job/imot/test_task2/library/protected/views/book/view.php (37)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (55)
+2013/11/28 22:54:41 [warning] [application] 1
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (40)
+in /home/magician/job/imot/test_task2/library/protected/views/book/view.php (43)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (55)
+2013/11/28 22:56:03 [error] [php] Trying to get property of non-object (/home/magician/job/imot/test_task2/library/protected/components/DBUtil.php:40)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/CBaseController.php(95): BookController->renderInternal()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(869): BookController->renderFile()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(782): BookController->renderPartial()
+#3 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(55): BookController->render()
+#4 unknown(0): BookController->actionView()
+#5 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#6 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#9 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#10 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#11 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#12 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#13 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#14 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/view&id=12
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (40)
+in /home/magician/job/imot/test_task2/library/protected/views/book/view.php (37)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (55)
+2013/11/28 23:08:07 [error] [php] Undefined index: relationsBooks (/home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php:73)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): AuthorController->runAction()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(265): AuthorController->runActionWithFilters()
+#3 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): AuthorController->run()
+#4 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=author/create
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (73)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:11:06 [error] [php] Undefined index: relationsBooks (/home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php:73)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): AuthorController->runAction()
+#1 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(265): AuthorController->runActionWithFilters()
+#3 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): AuthorController->run()
+#4 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=author/create
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (73)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:11:23 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Bo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern .
+in /home/magician/job/imot/test_task2/library/protected/components/EntityController.php (27)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (158)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:11:23 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Bo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/components/EntityController.php(27): CDbCommand->queryAll()
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(158): EntityController->doActionFind()
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): BookController->actionFind()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('find')
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/find')
+#10 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/find&term=Bo
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=author/create
+---
+2013/11/28 23:11:24 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Boo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern .
+in /home/magician/job/imot/test_task2/library/protected/components/EntityController.php (27)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (158)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:11:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Boo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/components/EntityController.php(27): CDbCommand->queryAll()
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(158): EntityController->doActionFind()
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): BookController->actionFind()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('find')
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/find')
+#10 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/find&term=Boo
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=author/create
+---
+2013/11/28 23:11:26 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Bo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern .
+in /home/magician/job/imot/test_task2/library/protected/components/EntityController.php (27)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (158)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:11:26 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Bo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/components/EntityController.php(27): CDbCommand->queryAll()
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(158): EntityController->doActionFind()
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): BookController->actionFind()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('find')
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/find')
+#10 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/find&term=Bo
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=author/create
+---
+2013/11/28 23:11:39 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Bo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern .
+in /home/magician/job/imot/test_task2/library/protected/components/EntityController.php (27)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (158)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:11:39 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'like '%Bo%'' at line 1. The SQL statement executed was: select id, name from tbl_bookwhere name like :pattern ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/components/EntityController.php(27): CDbCommand->queryAll()
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(158): EntityController->doActionFind()
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): BookController->actionFind()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('find')
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/find')
+#10 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#11 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/find&term=Bo
+---
+2013/11/28 23:12:39 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library_db.tbl_author_book_xref' doesn't exist. The SQL statement executed was: delete from tbl_author_book_xref where author_id = :id.
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (15)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (73)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:12:39 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library_db.tbl_author_book_xref' doesn't exist. The SQL statement executed was: delete from tbl_author_book_xref where author_id = :id' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(15): CDbCommand->execute(Array)
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php(73): DBUtil::saveRelations('author', 'book', Array, Array)
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): AuthorController->actionCreate()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('create')
+#8 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('author/create')
+#9 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/testtask2/library/index.php?r=author/create
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=author/create
+---
+2013/11/28 23:17:50 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library_db.tbl_author_book_xref' doesn't exist. The SQL statement executed was: select e2.id, e2.name from tbl_book e2  inner join tbl_author_book_xref xref on e2.id = xref.book_id  where xref.author_id = :id.
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (45)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (53)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:17:50 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library_db.tbl_author_book_xref' doesn't exist. The SQL statement executed was: select e2.id, e2.name from tbl_book e2  inner join tbl_author_book_xref xref on e2.id = xref.book_id  where xref.author_id = :id' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(45): CDbCommand->queryAll(true, Array)
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php(53): DBUtil::loadRelations('author', 'book', '8', 2)
+#3 [internal function]: AuthorController->actionView('8')
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(AuthorController), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(AuthorController), Object(ReflectionMethod), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#9 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('view')
+#11 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('author/view')
+#12 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#13 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/testtask2/library/index.php?r=author/view&id=8
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=author/create
+---
+2013/11/28 23:18:12 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library_db.tbl_author_book_xref' doesn't exist. The SQL statement executed was: select e2.id, e2.name from tbl_book e2  inner join tbl_author_book_xref xref on e2.id = xref.book_id  where xref.author_id = :id.
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (45)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (53)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:18:12 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library_db.tbl_author_book_xref' doesn't exist. The SQL statement executed was: select e2.id, e2.name from tbl_book e2  inner join tbl_author_book_xref xref on e2.id = xref.book_id  where xref.author_id = :id' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(45): CDbCommand->queryAll(true, Array)
+#2 /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php(53): DBUtil::loadRelations('author', 'book', '9', 2)
+#3 [internal function]: AuthorController->actionView('9')
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(AuthorController), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(AuthorController), Object(ReflectionMethod), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#9 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('view')
+#11 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('author/view')
+#12 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#13 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/testtask2/library/index.php?r=author/view&id=9
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=author/create
+---
+2013/11/28 23:21:00 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_author_xref`, CONSTRAINT `tbl_book_author_xref_ibfk_2` FOREIGN KEY (`author_id`) REFERENCES `tbl_author` (`id`)). The SQL statement executed was: insert into tbl_book_author_xref (book_id, author_id) values (:id1, :id2).
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (28)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:21:00 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_author_xref`, CONSTRAINT `tbl_book_author_xref_ibfk_2` FOREIGN KEY (`author_id`) REFERENCES `tbl_author` (`id`)). The SQL statement executed was: insert into tbl_book_author_xref (book_id, author_id) values (:id1, :id2)' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(28): CDbCommand->execute()
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(102): DBUtil::saveRelations('book', 'author', Array, Array)
+#2 [internal function]: BookController->actionUpdate('4')
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('update')
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/update')
+#11 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=4
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/update&id=4
+---
+2013/11/28 23:23:29 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_author_xref`, CONSTRAINT `tbl_book_author_xref_ibfk_2` FOREIGN KEY (`author_id`) REFERENCES `tbl_author` (`id`)). The SQL statement executed was: insert into tbl_book_author_xref (book_id, author_id) values (:id1, :id2).
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (28)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:23:29 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_author_xref`, CONSTRAINT `tbl_book_author_xref_ibfk_2` FOREIGN KEY (`author_id`) REFERENCES `tbl_author` (`id`)). The SQL statement executed was: insert into tbl_book_author_xref (book_id, author_id) values (:id1, :id2)' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(28): CDbCommand->execute()
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(102): DBUtil::saveRelations('book', 'author', Array, Array)
+#2 [internal function]: BookController->actionUpdate('4')
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('update')
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/update')
+#11 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=4
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/update&id=4
+---
+2013/11/28 23:26:18 [warning] [application] 4, 2
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:26:18 [warning] [application] 4, 4
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:26:18 [warning] [application] 4, 2
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (103)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:26:18 [warning] [application] 4, 3
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (103)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:26:49 [warning] [application] 3, 8
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (98)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:06 [warning] [application] 3, 8
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (98)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:06 [warning] [application] 3, 10
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (98)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:07 [warning] [application] 3, 12
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/AuthorController.php (98)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:42 [warning] [application] 10, 3
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:42 [warning] [application] 10, 8
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:43 [warning] [application] 10, 4
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:43 [warning] [application] 10, 9
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:43 [warning] [application] 10, 
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (103)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:43 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_reader_xref`, CONSTRAINT `tbl_book_reader_xref_ibfk_2` FOREIGN KEY (`reader_id`) REFERENCES `tbl_reader` (`id`)). The SQL statement executed was: insert into tbl_book_reader_xref (book_id, reader_id) values (:id1, :id2).
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (29)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (103)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:27:43 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_reader_xref`, CONSTRAINT `tbl_book_reader_xref_ibfk_2` FOREIGN KEY (`reader_id`) REFERENCES `tbl_reader` (`id`)). The SQL statement executed was: insert into tbl_book_reader_xref (book_id, reader_id) values (:id1, :id2)' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(29): CDbCommand->execute()
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(103): DBUtil::saveRelations('book', 'reader', Array, Array)
+#2 [internal function]: BookController->actionUpdate('10')
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('update')
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/update')
+#11 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=10
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/update&id=10
+---
+2013/11/28 23:31:20 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_reader_xref`, CONSTRAINT `tbl_book_reader_xref_ibfk_2` FOREIGN KEY (`reader_id`) REFERENCES `tbl_reader` (`id`)). The SQL statement executed was: insert into tbl_book_reader_xref (book_id, reader_id) values (:id1, :id2).
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (31)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (103)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:31:20 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_reader_xref`, CONSTRAINT `tbl_book_reader_xref_ibfk_2` FOREIGN KEY (`reader_id`) REFERENCES `tbl_reader` (`id`)). The SQL statement executed was: insert into tbl_book_reader_xref (book_id, reader_id) values (:id1, :id2)' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(31): CDbCommand->execute()
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(103): DBUtil::saveRelations('book', 'reader', Array, Array)
+#2 [internal function]: BookController->actionUpdate('10')
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('update')
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/update')
+#11 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=10
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/update&id=10
+---
+2013/11/28 23:33:51 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_reader_xref`, CONSTRAINT `tbl_book_reader_xref_ibfk_2` FOREIGN KEY (`reader_id`) REFERENCES `tbl_reader` (`id`)). The SQL statement executed was: insert into tbl_book_reader_xref (book_id, reader_id) values (:id1, :id2).
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (29)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (103)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:33:51 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`library_db`.`tbl_book_reader_xref`, CONSTRAINT `tbl_book_reader_xref_ibfk_2` FOREIGN KEY (`reader_id`) REFERENCES `tbl_reader` (`id`)). The SQL statement executed was: insert into tbl_book_reader_xref (book_id, reader_id) values (:id1, :id2)' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php(29): CDbCommand->execute()
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php(103): DBUtil::saveRelations('book', 'reader', Array, Array)
+#2 [internal function]: BookController->actionUpdate('10')
+#3 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(BookController), Array)
+#4 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(BookController), Object(ReflectionMethod), Array)
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#6 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#7 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#8 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('update')
+#10 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('book/update')
+#11 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#12 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=10
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=book/update&id=10
+---
+2013/11/28 23:34:41 [error] [php] Use of undefined constant id2 - assumed 'id2' (/home/magician/job/imot/test_task2/library/protected/components/DBUtil.php:26)
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/magician/job/imot/test_task2/framework/web/filters/CFilterChain.php(133): BookController->runAction()
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(291): CFilterChain->run()
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(265): BookController->runActionWithFilters()
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): BookController->run()
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /home/magician/job/imot/test_task2/library/index.php(13): CWebApplication->run()
+REQUEST_URI=/testtask2/library/index.php?r=book/update&id=10
+in /home/magician/job/imot/test_task2/library/protected/components/DBUtil.php (26)
+in /home/magician/job/imot/test_task2/library/protected/controllers/BookController.php (102)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:44:59 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TODO' at line 1. The SQL statement executed was: TODO .
+in /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php (20)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:44:59 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TODO' at line 1. The SQL statement executed was: TODO ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(20): CDbCommand->queryAll(true)
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionAuthorsReadBy3Readers()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('authorsReadBy3R...')
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('report/authorsR...')
+#8 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/testtask2/library/index.php?r=report/authorsReadBy3Readers
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=report/index
+---
+2013/11/28 23:52:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TODO' at line 1. The SQL statement executed was: TODO .
+in /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php (20)
+in /home/magician/job/imot/test_task2/library/index.php (13)
+2013/11/28 23:52:36 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TODO' at line 1. The SQL statement executed was: TODO ' in /home/magician/job/imot/test_task2/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/magician/job/imot/test_task2/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/magician/job/imot/test_task2/library/protected/controllers/ReportController.php(20): CDbCommand->queryAll(true)
+#2 /home/magician/job/imot/test_task2/framework/web/actions/CInlineAction.php(49): ReportController->actionAuthorsReadBy3Readers()
+#3 /home/magician/job/imot/test_task2/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/magician/job/imot/test_task2/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/magician/job/imot/test_task2/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(282): CController->run('authorsReadBy3R...')
+#7 /home/magician/job/imot/test_task2/framework/web/CWebApplication.php(141): CWebApplication->runController('report/authorsR...')
+#8 /home/magician/job/imot/test_task2/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /home/magician/job/imot/test_task2/library/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/testtask2/library/index.php?r=report/authorsReadBy3Readers
+HTTP_REFERER=http://localhost/testtask2/library/index.php?r=report
+---
